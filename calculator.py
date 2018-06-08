@@ -1,0 +1,6 @@
+print("Here's a calculator.")
+print("What's your first number?")
+num1 = input()
+print("What's your sencond number?")
+num2 = input()
+print(num1 + num2)
